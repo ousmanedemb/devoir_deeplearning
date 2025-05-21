@@ -23,6 +23,15 @@ Lancer le projet
 
 3. Une interface Gradio s'ouvrira dans ton navigateur.
 
+✏️ Exemple d'utilisation
+------------------------
+Copie-colle une description comme :
+
+    “We are looking for a passionate software engineer to work on web applications using Python and React. You will collaborate with a team of experienced developers.”
+
+Le modèle retournera par exemple :
+➡️ "Mid-Senior level"
+
 🔧 Technologies utilisées
 -------------------------
 - BERT (bert-base-uncased)
