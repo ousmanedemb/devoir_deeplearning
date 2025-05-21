@@ -9,13 +9,16 @@ Une interface **Gradio** permet de tester le modèle facilement.
 ----------------------
 - fake_job_postings 2.csv : jeu de données avec descriptions d'offres et niveaux d'expérience.
 - devoir_deeplearning.ipynb : Notebook Python pour entraîner BERT et lancer Gradio.
-- requirements.txt : bibliothèques à installer.
 
 Lancer le projet
 -------------------
 1. Installer les dépendances :
 
-    pip install -r requirements.txt
+    pandas
+    torch
+    transformers
+    scikit-learn
+    gradio
 
 2. Lancer le noteboot :
 
